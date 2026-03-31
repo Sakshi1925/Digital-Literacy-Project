@@ -54,6 +54,3 @@ Task 5 – Cybercrime Awareness (Module 5)
 Project Report
 
 A well written project report is submitted giving brief description of each task.
-
-
-Submitted as part of CSE0001 – Digital Literacy | VIT Bhopal University
