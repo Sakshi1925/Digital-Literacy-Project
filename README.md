@@ -3,11 +3,11 @@ VIT Bhopal University | VITyarthi E-Learning Platform
 
 Student Details
 
-Name: Sakshi Singh
-Registration No.: 25BCE11287
-Branch: B.Tech – CSE(Core)
-Year: First Year (2025-2026)
-Course Code	CSE0001 – Digital Literacy
+1. Name: Sakshi Singh
+2. Registration No.: 25BCE11287
+3. Branch: B.Tech – CSE(Core)
+4. Year: First Year (2025-2026)
+5. Course Code	CSE0001 – Digital Literacy
 
 
 Project Overview
@@ -18,6 +18,7 @@ This repository is my submission for the CSE0001 Digital Literacy project at VIT
 Module Summaries
 
 Task 1 – Digital Literacy Infographic (Module 1)
+
 Created a one-page visual infographic using Canva covering five key topics:
 1. What Digital Literacy means
 2. Useful Digital Tools for Students
