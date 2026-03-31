@@ -30,29 +30,30 @@ Task 2 – Student Digital Portfolio (Module 2)
 
 Set up professional profiles on three platforms to build an online presence:
 
-1. GitHub: Code portfolio & projects (
+1. GitHub: Code portfolio & projects (https://github.com/Sakshi1925/Sakshi1925)
 2. LinkedIn: Professional networking (https://www.linkedin.com/in/sakshi-singh-1a40993bb/)
 3. Stack overflow: Data science & ML practice	(https://stackoverflow.com/users/32560282/sakshi-singh)
 
 Task 3 – Coding & Collaboration Platforms (Module 3)
 
-Completed a beginner coding challenge on HackerRank
-Built a Digital Literacy Awareness Quiz using Google Forms (5 questions)
-Google Form Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLScRt_iL6WPLAMw1sZSisAanzC7qCaMMZsiNJ44H-u00GiyoBg/viewform?usp=publish-editor
+1. Completed a beginner coding challenge on HackerRank
+2. Built a Digital Literacy Awareness Quiz using Google Forms (5 questions)
+3. Google Form Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLScRt_iL6WPLAMw1sZSisAanzC7qCaMMZsiNJ44H-u00GiyoBg/viewform?usp=publish-editor
 
 Task 4 – Email Etiquette (Module 4)
 
-Drafted two professional emails following email etiquette rules
-Created a Social Media Do's and Don'ts checklist for college students
+1. Drafted two professional emails following email etiquette rules
+2. Created a Social Media Do's and Don'ts checklist for college students
 
 Task 5 – Cybercrime Awareness (Module 5)
 
-Wrote a case study on (Phishing)
-Created a 'Stay Safe Online' checklist with 8+ prevention tips specific to Indian college students
-Included reporting resources: cybercrime.gov.in | Helpline: 1930
+1. Wrote a case study on (Phishing)
+2. Created a 'Stay Safe Online' checklist with 8+ prevention tips specific to Indian college students
+3. Included reporting resources: cybercrime.gov.in | Helpline: 1930
 
 Project Report
 
 A well written project report is submitted giving brief description of each task.
+
 
 Submitted as part of CSE0001 – Digital Literacy | VIT Bhopal University
